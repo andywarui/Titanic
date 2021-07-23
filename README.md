@@ -8,4 +8,4 @@
 4. Where are the outliers and why should I care about them?
 5. HOw can I add, Chnage, remove features?
 
-#Can we predict survivors on the Titanic based on data from of passengers onboard?
+# Can we predict survivors on the Titanic based on data from of passengers onboard?
